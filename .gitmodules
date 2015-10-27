@@ -1,0 +1,27 @@
+[submodule "airline"]
+	path = airline
+	url = https://github.com/bling/vim-airline
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "nerdcommenter"]
+	path = nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
+[submodule "monokai"]
+	path = monokai
+	url = https://github.com/sickill/vim-monokai
+[submodule "tagbar"]
+	path = tagbar
+	url = https://github.com/majutsushi/tagbar
+[submodule "javascript"]
+	path = javascript
+	url = http://github.com/pangloss/vim-javascript
+[submodule "tlib.snippets"]
+	path = tlib.snippets
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "mwutils.snippets"]
+	path = mwutils.snippets
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "snipmate.vim"]
+	path = snipmate.vim
+	url = https://github.com/garbas/vim-snipmate.git
